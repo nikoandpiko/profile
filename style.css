@@ -6,20 +6,24 @@ body {
   font-size: 17px;
   font-weight: lighter;
 }
-h1, h2, h3 {
+
+h1, h2 {
   font-family: 'Roboto', sans-serif;
 }
+
 h1 {
   color: #575F7D;
   font-size: 32px;
   font-weight: 900;
 }
+
 h2 {
   color: #7ECE90;
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
 }
+
 a {
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
@@ -27,10 +31,10 @@ a {
   font-weight: 600;
   font-size: 16px;
 }
+
 a:hover {
   color: black;
 }
-
 
 /* Custom design with class (99% of your design) */
 .container {
